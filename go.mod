@@ -1,4 +1,4 @@
-module github.com/keybase/go-keychain
+module github.com/figma/go-keychain
 
 go 1.19
 
